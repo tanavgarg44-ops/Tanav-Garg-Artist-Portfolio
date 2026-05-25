@@ -1,0 +1,6 @@
+{
+  "name": "Artist & Animator Portfolio",
+  "description": "A minimalist and elegant portfolio for an artist and animator featuring an interactive timeline, artwork gallery, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
